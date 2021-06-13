@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dvimukthi
 - 👀 I’m interested in Tv Series
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on Everyone...
 - 📫 How to reach me :- @dvimukthi
 
