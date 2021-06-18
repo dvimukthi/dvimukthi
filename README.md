@@ -3,7 +3,7 @@
 ## I'm a student!!
 
 - 🔭 I'm currently studying a BSc.(Hons) Computer Science
-- 🌱 I’m currently learning React and Firebase 🤣
+- 🌱 I’m currently learning React and Firebase
 - 👯 I’m looking to collaborate on everyone
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch tv shows
