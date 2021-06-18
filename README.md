@@ -1,6 +1,7 @@
 ### Hi there, I'm Deshan 👋
 
 ## I'm a student!!
+[README.md](https://github.com/dvimukthi/dvimukthi/files/6675997/README.md)
 
 - 🔭 I'm currently studying a BSc.(Hons) Computer Science
 - 🌱 I’m currently learning React and Firebase 🤣
