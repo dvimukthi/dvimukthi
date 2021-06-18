@@ -39,6 +39,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   [![dvimukthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvimukthi&hide=stars,prs,contribs_icons=true&theme=radical)]
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dvimukthi&repo=github-readme-stats)]
 
 
 </details>
