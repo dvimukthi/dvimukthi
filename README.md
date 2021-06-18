@@ -38,7 +38,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![dvimukthi's GitHub stats](https://github-readme-stats.vercel.app/api?dvimukthi=anuraghazra)]
+  [![dvimukthi's GitHub stats](https://github-readme-stats.vercel.app/api?dvimukthi=dvimukthi)]
 
 
 </details>
