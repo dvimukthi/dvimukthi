@@ -43,6 +43,9 @@
 
 </details>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dvimukthi&repo=github-readme-stats)]
+
+
 [facebook]: https://www.facebook.com/vimukthi.samarasekera/
 [linkedin]: https://www.linkedin.com/in/deshan-v-1b09b9205/
 [instagram]: https://www.instagram.com/d_vimukth_i/
