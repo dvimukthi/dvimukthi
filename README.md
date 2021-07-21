@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Deshan Vimukthi 🇱🇰
+### Hi there 👋, I'm Deshan Vimukthi <img src="https://img.icons8.com/color/96/000000/sri-lanka.png" height="32"/>
 
 ## I'm an Undergraduate Student, Front End Developer! 
 
@@ -11,12 +11,12 @@
 ### 📫 How to Reach Me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 <!-- [<img align="left" alt="Sabesan" height="22px" src="./SocialLogo/Web.png" />][website] -->
-[<img align="left" alt="Sabesan | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
-[<img align="left" alt="Sabesan | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
+[<img align="left" alt="Sabesan | Facebook" height="22px" src="https://img.icons8.com/fluent/240/000000/facebook-new.png"/>][facebook]
+[<img align="left" alt="Sabesan | Instagram" height="22px" src="https://img.icons8.com/fluent/240/000000/instagram-new.png"/>][instagram]
 [<img align="left" alt="Sabesan | Messenger" height="22px" src="https://img.icons8.com/fluent/240/000000/facebook-messenger--v2.png"/>][messenger]
-[<img align="left" alt="Sabesan | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Sabesan | Skype" height="22px" src="./SocialLogo/Skype.png" />][skype]
-[<img align="left" alt="Sabesan | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
+[<img align="left" alt="Sabesan | LinkedIn" height="22px" src="https://img.icons8.com/fluent/240/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="Sabesan | Skype" height="22px" src="https://img.icons8.com/color/240/000000/skype--v1.png"/>][skype]
+[<img align="left" alt="Sabesan | Telegram" height="22px" src="https://img.icons8.com/color/240/000000/telegram-app--v1.png"/>][telegram]
 
 
 <br /> 
@@ -54,51 +54,51 @@
 <code>
 <img alt="ReactJs" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
 </code>
-[<code>
+<code>
 <img alt="angularjs" width="26px" src="https://img.icons8.com/color/240/000000/angularjs.png"/>
-</code>]
-[<code>
+</code>
+<code>
 <img alt="vue-js" width="26px" src="https://img.icons8.com/color/240/000000/vue-js.png"/>
-</code>]
-[<code>
+</code>
+<code>
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
-[<code>
+</code>
+<code>
 <img alt="Firebase" width="26px" src="https://img.icons8.com/color/240/000000/firebase.png"/>
-</code>]
-[<code>
+</code>
+<code>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
+</code>
 <br />
-[<code>
+<code>
 <img alt="android" width="26px" src="https://img.icons8.com/color/240/000000/android-os.png"/>
-</code>]
-[<code>
+</code>
+<code>
 <img alt="ios" width="26px" src="https://img.icons8.com/color/240/000000/ios-logo.png"/>
-</code>]
+</code>
 <br />
-[<code>
+<code>
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png"/>
-</code>]
-[<code>
+</code>
+<code>
 <img alt="react-native" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
-</code>]
-[<code>
+</code>
+<code>
 <img alt="flutter" width="26px" src="https://img.icons8.com/color/240/000000/flutter.png"/>
-</code>]
-[<code>
+</code>
+<code>
 <img alt="swift" width="26px" src="https://img.icons8.com/color/240/000000/swift.png"/>
-</code>]
+</code>
 <br />
-[<code>
+<code>
 <img alt="Figma" width="26px" src="https://img.icons8.com/fluent/240/000000/figma.png"/>
-</code>]
-[<code>
+</code>
+<code>
 <img alt="adobeXD" width="26px" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png"/>
-</code>]
-[<code>
+</code>
+<code>
 <img alt="Sketch" width="26px" src="https://img.icons8.com/plasticine/200/000000/sketch.png"/>
-</code>]
+</code>
 
 ---
 
@@ -132,7 +132,7 @@
 
 ---
 
-_NOTE: Top languages don't indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on github_
+<!-- _NOTE: Top languages don't indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on github_ -->
 
 <a href="https://github-readme-stats.vercel.app/api?username=dvimukthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 <img align="center" alt="Haseeb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dvimukthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
@@ -146,7 +146,6 @@ _NOTE: Top languages don't indicate my skill level or something like that, it's 
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=dvimukthi.dvimukthi" alt="Visitors">                     
 </p> -->
 
----
 
 [linkedin]: https://www.linkedin.com/in/deshan-v-1b09b9205/
 [messenger]: https://m.me/vimukthi.samarasekera
