@@ -13,7 +13,7 @@
 <!-- [<img align="left" alt="Sabesan" height="22px" src="./SocialLogo/Web.png" />][website] -->
 [<img align="left" alt="Sabesan | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
 [<img align="left" alt="Sabesan | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
-[<img align="left" alt="Sabesan | Messenger" height="22px" src="./SocialLogo/Messenger.png" />][messenger]
+[<img align="left" alt="Sabesan | Messenger" height="22px" src="https://img.icons8.com/fluent/240/000000/facebook-messenger--v2.png"/>][messenger]
 [<img align="left" alt="Sabesan | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 [<img align="left" alt="Sabesan | Skype" height="22px" src="./SocialLogo/Skype.png" />][skype]
 [<img align="left" alt="Sabesan | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
@@ -51,9 +51,9 @@
 [<code>
 <img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
 </code>](https://www.typescriptlang.org/)
-[<code>
+<code>
 <img alt="ReactJs" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
-</code>]
+</code>
 [<code>
 <img alt="angularjs" width="26px" src="https://img.icons8.com/color/240/000000/angularjs.png"/>
 </code>]
@@ -142,9 +142,9 @@ _NOTE: Top languages don't indicate my skill level or something like that, it's 
 
 ---
 
-<p align=center>                           
+<!--<p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=dvimukthi.dvimukthi" alt="Visitors">                     
-</p>
+</p> -->
 
 ---
 
