@@ -1,46 +1,156 @@
-### Hi there, I'm Deshan 👋
-👨‍💻❤️
+### Hi there 👋, I'm Deshan Vimukthi 🇱🇰
 
-- 🔭 I'm currently studying a BSc.(Hons) Computer Science
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on everyone
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch tv shows
+## I'm an Undergraduate Student, Front End Developer! 
 
-### Connect with me:
+- 🔭 I'm currently studying a BSc.(Hons) Computer Science.
+- 🌱 I’m currently learning ReactJs and Firebase.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
+- ⚡ Fun fact: I love to play Cricket and Watching Tv series.
 
-[<img align="left" alt="dvimukthi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="dvimukthi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="dvimukthi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 📫 How to Reach Me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-<br />
+<!-- [<img align="left" alt="Sabesan" height="22px" src="./SocialLogo/Web.png" />][website] -->
+[<img align="left" alt="Sabesan | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
+[<img align="left" alt="Sabesan | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
+[<img align="left" alt="Sabesan | Messenger" height="22px" src="./SocialLogo/Messenger.png" />][messenger]
+[<img align="left" alt="Sabesan | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
+[<img align="left" alt="Sabesan | Skype" height="22px" src="./SocialLogo/Skype.png" />][skype]
+[<img align="left" alt="Sabesan | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
 
-### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br /> 
 
-<br />
-<br />
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### Languages and Tools 🛠️
 
-  ![dvimukthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvimukthi&hide=stars,prs,contribs_icons=true&theme=dracula)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvimukthi&icons=true&theme=dracula)
+[<code>
+<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
+</code>](https://www.microsoft.com/en-us/windows)
+[<code>
+<img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
+</code>](https://developer.apple.com/macos/)
+[<code>
+<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
+</code>](https://www.kernel.org/)
+<br />
+[<code>
+<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+</code>](https://code.visualstudio.com/)
+[<code>
+<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
+</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<code>
+<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
+</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<code>
+<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<code>
+<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
+</code>](https://www.typescriptlang.org/)
+[<code>
+<img alt="ReactJs" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
+</code>]
+[<code>
+<img alt="angularjs" width="26px" src="https://img.icons8.com/color/240/000000/angularjs.png"/>
+</code>]
+[<code>
+<img alt="vue-js" width="26px" src="https://img.icons8.com/color/240/000000/vue-js.png"/>
+</code>]
+[<code>
+<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
+</code>](https://nodejs.org/en/)
+[<code>
+<img alt="Firebase" width="26px" src="https://img.icons8.com/color/240/000000/firebase.png"/>
+</code>]
+[<code>
+<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
+</code>](https://git-scm.com/)
+<br />
+[<code>
+<img alt="android" width="26px" src="https://img.icons8.com/color/240/000000/android-os.png"/>
+</code>]
+[<code>
+<img alt="ios" width="26px" src="https://img.icons8.com/color/240/000000/ios-logo.png"/>
+</code>]
+<br />
+[<code>
+<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png"/>
+</code>]
+[<code>
+<img alt="react-native" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
+</code>]
+[<code>
+<img alt="flutter" width="26px" src="https://img.icons8.com/color/240/000000/flutter.png"/>
+</code>]
+[<code>
+<img alt="swift" width="26px" src="https://img.icons8.com/color/240/000000/swift.png"/>
+</code>]
+<br />
+[<code>
+<img alt="Figma" width="26px" src="https://img.icons8.com/fluent/240/000000/figma.png"/>
+</code>]
+[<code>
+<img alt="adobeXD" width="26px" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png"/>
+</code>]
+[<code>
+<img alt="Sketch" width="26px" src="https://img.icons8.com/plasticine/200/000000/sketch.png"/>
+</code>]
 
- 
-</details>
+---
 
-[facebook]: https://www.facebook.com/vimukthi.samarasekera/
+<!-- ### Certifications 🏅
+
+- [DataBricks: Fundamentals of Big Data](https://academy.databricks.com/elearning/INT-INBD-v1-SP)
+- [Codecademy: Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science)
+- [Kaggle: Python](https://www.kaggle.com/learn/python)
+- [Coursera: AI For Eveyone](https://www.coursera.org/learn/ai-for-everyone)
+- [DigiSkill: Graphic Designer](https://digiskills.pk/CourseDetails.aspx?Id=GRD101)
+
+---
+
+### Competencies 🤹 
+
+- Python Programmer.
+- BI analytics Dashboard using Power BI.
+- Data Extraction using Beautiful Soup and Selenium.
+- Exploratory Data Analysis using Pandas.
+- Data Visualization Matplotlib and Seaborn.
+- Predictive Analytics/Machine Learning (Supervised/Unsupervised) using Scikit-Learn and PyCaret.
+- Deep Learning with TensorFlow.
+- Amazon Web Service (AWS) using Sagemaker.
+- Backend Development using Django and Flask.
+
+---
+
+### Experiences 💼
+
+- Data Science & Bussiness Analyst at The Spark Foundation - part of sparks foundation as an internee of Data Science & business analytics to work on different projects. -->
+
+---
+
+_NOTE: Top languages don't indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on github_
+
+<a href="https://github-readme-stats.vercel.app/api?username=dvimukthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
+<img align="center" alt="Haseeb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dvimukthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dvimukthi&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvimukthi&layout=compact&theme=radical" />
+</a>
+
+---
+
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=dvimukthi.dvimukthi" alt="Visitors">                     
+</p>
+
+---
+
 [linkedin]: https://www.linkedin.com/in/deshan-v-1b09b9205/
+[messenger]: https://m.me/vimukthi.samarasekera
+[telegram]: https://t.me/dvimukthi
+[skype]: https://join.skype.com/invite/WZNoPmh3fKRT
+[facebook]: https://www.facebook.com/vimukthi.samarasekera/
 [instagram]: https://www.instagram.com/d_vimukth_i/
