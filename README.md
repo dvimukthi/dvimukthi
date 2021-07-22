@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Deshan Vimukthi <img src="https://img.icons8.com/color/96/000000/sri-lanka.png" height="40"/>
+### Hi there 👋, I'm Deshan Vimukthi <img src="https://img.icons8.com/color/96/000000/sri-lanka-circular.png"/>
 
 ## I'm an Undergraduate Student, Front End Developer! 
 
