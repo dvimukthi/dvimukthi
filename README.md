@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Deshan Vimukthi <img src="https://img.icons8.com/color/96/000000/sri-lanka.png" height="35"/>
+### Hi there 👋, I'm Deshan Vimukthi <img src="https://img.icons8.com/color/96/000000/sri-lanka.png" height="40"/>
 
 ## I'm an Undergraduate Student, Front End Developer! 
 
@@ -27,30 +27,30 @@
 ### Languages and Tools 🛠️
 
 <code>
-<img align="left" alt="Sabesan | windows" height="26px" src="https://img.icons8.com/color/240/000000/windows-10.png"/>
+<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>
 <code>
-<img align="left" alt="Sabesan | macos" height="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png"/>
+<img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
 </code>
 <code>
-<img align="left" alt="Sabesan | linux" height="26px" src="https://img.icons8.com/color/96/000000/linux.png"/>
+<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>
 <br />
-[<code>
-<img alt="visual studio code" width="26px" height="26px src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
+<code>
+<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+</code>
+<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
+</code>
+<code>
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
+</code>
+<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
+</code>
+<code>
 <img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
-</code>](https://www.typescriptlang.org/)
+</code>
 <code>
 <img alt="ReactJs" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
 </code>
