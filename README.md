@@ -100,7 +100,7 @@
 <img alt="Sketch" width="26px" src="https://img.icons8.com/plasticine/200/000000/sketch.png"/>
 </code>
 
-
+---
 <!-- ### Certifications 🏅
 
 - [DataBricks: Fundamentals of Big Data](https://academy.databricks.com/elearning/INT-INBD-v1-SP)
