@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Deshan Vimukthi <img src="https://img.icons8.com/color/96/000000/sri-lanka.png" height="32"/>
+### Hi there 👋, I'm Deshan Vimukthi <img src="https://img.icons8.com/color/96/000000/sri-lanka.png" height="30"/>
 
 ## I'm an Undergraduate Student, Front End Developer! 
 
@@ -19,16 +19,16 @@
 [<img align="left" alt="Sabesan | Telegram" height="22px" src="https://img.icons8.com/color/240/000000/telegram-app--v1.png"/>][telegram]
 
 
-<br /> 
+<br />    
 
 
 ---
 
 ### Languages and Tools 🛠️
 
-[<code>
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
+<code>
+<img align="left" alt="Sabesan | windows" height="26px" src="https://img.icons8.com/color/240/000000/windows-10.png"/>
+</code>
 [<code>
 <img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
 </code>](https://developer.apple.com/macos/)
