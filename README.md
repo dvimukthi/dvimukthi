@@ -27,7 +27,7 @@
 ### Languages and Tools 🛠️
 
 <code>
-<img align="left" alt="Sabesan | windows" height="26px" src="https://img.icons8.com/color/240/000000/windows-10.png"/>
+<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>
 [<code>
 <img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
