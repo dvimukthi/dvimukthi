@@ -10,7 +10,7 @@
 
 ### 📫 How to Reach Me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-<!-- [<img align="left" alt="Sabesan" height="22px" src="./SocialLogo/Web.png" />][website] -->
+
 [<img align="left" alt="Sabesan | Facebook" height="22px" src="https://img.icons8.com/fluent/240/000000/facebook-new.png"/>][facebook]
 [<img align="left" alt="Sabesan | Instagram" height="22px" src="https://img.icons8.com/fluent/240/000000/instagram-new.png"/>][instagram]
 [<img align="left" alt="Sabesan | Messenger" height="22px" src="https://img.icons8.com/fluent/240/000000/facebook-messenger--v2.png"/>][messenger]
@@ -19,9 +19,9 @@
 [<img align="left" alt="Sabesan | Telegram" height="22px" src="https://img.icons8.com/color/240/000000/telegram-app--v1.png"/>][telegram]
 
 
-<br />    
-          
-          
+<br /> 
+
+
 ---
 
 ### Languages and Tools 🛠️
@@ -100,7 +100,6 @@
 <img alt="Sketch" width="26px" src="https://img.icons8.com/plasticine/200/000000/sketch.png"/>
 </code>
 
----
 
 <!-- ### Certifications 🏅
 
@@ -110,7 +109,6 @@
 - [Coursera: AI For Eveyone](https://www.coursera.org/learn/ai-for-everyone)
 - [DigiSkill: Graphic Designer](https://digiskills.pk/CourseDetails.aspx?Id=GRD101)
 
----
 
 ### Competencies 🤹 
 
@@ -124,13 +122,11 @@
 - Amazon Web Service (AWS) using Sagemaker.
 - Backend Development using Django and Flask.
 
----
 
 ### Experiences 💼
 
 - Data Science & Bussiness Analyst at The Spark Foundation - part of sparks foundation as an internee of Data Science & business analytics to work on different projects. -->
 
----
 
 <!-- _NOTE: Top languages don't indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on github_ -->
 
@@ -140,7 +136,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvimukthi&layout=compact&theme=radical" />
 </a>
 
----
 
 <!--<p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=dvimukthi.dvimukthi" alt="Visitors">                     
