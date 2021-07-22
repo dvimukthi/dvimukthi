@@ -26,7 +26,7 @@
 
 ### Languages and Tools 🛠️
 
-<img alt="windows" width="30px" src="https://img.icons8.com/color/240/000000/windows-10.png">
+<p><img alt="windows" width="30px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 <img alt="macos" width="30px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
 <img alt="linux" width="30px" src="https://img.icons8.com/color/96/000000/linux.png">
 <br />
@@ -52,7 +52,7 @@
 <br />
 <img alt="Figma" width="30px" src="https://img.icons8.com/fluent/240/000000/figma.png"/>
 <img alt="adobeXD" width="30px" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png"/>
-<img alt="Sketch" width="30px" src="https://img.icons8.com/plasticine/200/000000/sketch.png"/>
+<img alt="Sketch" width="30px" src="https://img.icons8.com/plasticine/200/000000/sketch.png"/></p>
 
 ---
 ### Certifications 🏅
