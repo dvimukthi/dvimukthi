@@ -20,24 +20,21 @@
 
 
 <br />    
-
-
+          
+          
 ---
 
 ### Languages and Tools 🛠️
 
 <code>
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-width="240" height="240"
-viewBox="0 0 48 48"
-style=" fill:#000000;"><path fill="#00b0ff" d="M20 25.026L5.011 25 5.012 37.744 20 39.818zM22 25.03L22 40.095 42.995 43 43 25.066zM20 8.256L5 10.38 5.014 23 20 23zM22 7.973L22 23 42.995 23 42.995 5z"></path></svg>
+<img align="left" alt="Sabesan | windows" height="26px" src="https://img.icons8.com/color/240/000000/windows-10.png"/>
 </code>
-[<code>
-<img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
-</code>](https://developer.apple.com/macos/)
-[<code>
-<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)
+<code>
+<img align="left" alt="Sabesan | macos" height="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png"/>
+</code>
+<code>
+<img align="left" alt="Sabesan | linux" height="26px" src="https://img.icons8.com/color/96/000000/linux.png"/>
+</code>
 <br />
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
