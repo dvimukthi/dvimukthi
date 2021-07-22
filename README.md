@@ -26,63 +26,57 @@
 
 ### Languages and Tools 🛠️
 
-<p><img alt="windows" width="30px" src="https://img.icons8.com/color/240/000000/windows-10.png">
+<img alt="windows" width="30px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 <img alt="macos" width="30px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
-<img alt="linux" width="30px" src="https://img.icons8.com/color/96/000000/linux.png"> 
+<img alt="linux" width="30px" src="https://img.icons8.com/color/96/000000/linux.png">
 <br />
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
-<img alt="ReactJs" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
-<img alt="angularjs" width="26px" src="https://img.icons8.com/color/240/000000/angularjs.png"/>
-<img alt="vue-js" width="26px" src="https://img.icons8.com/color/240/000000/vue-js.png"/>
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-<img alt="Firebase" width="26px" src="https://img.icons8.com/color/240/000000/firebase.png"/>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
+<img alt="visual studio code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+<img alt="html5" width="30px" src="https://img.icons8.com/color/240/000000/html-5.png">
+<img alt="css3" width="30px" src="https://img.icons8.com/color/240/000000/css3.png">
+<img alt="javascript" width="30px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+<img alt="typescript" width="30px" src="https://img.icons8.com/color/240/000000/typescript.png">
+<img alt="ReactJs" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
+<img alt="angularjs" width="30px" src="https://img.icons8.com/color/240/000000/angularjs.png"/>
+<img alt="vue-js" width="30px" src="https://img.icons8.com/color/240/000000/vue-js.png"/>
+<img alt="Node.js" width="30px" src="https://img.icons8.com/color/240/000000/nodejs.png">
+<img alt="Firebase" width="30px" src="https://img.icons8.com/color/240/000000/firebase.png"/>
+<img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png">
 <br />
-<img alt="android" width="26px" src="https://img.icons8.com/color/240/000000/android-os.png"/>
-<img alt="ios" width="26px" src="https://img.icons8.com/color/240/000000/ios-logo.png"/>
+<img alt="android" width="30px" src="https://img.icons8.com/color/240/000000/android-os.png"/>
+<img alt="ios" width="30px" src="https://img.icons8.com/color/240/000000/ios-logo.png"/>
 <br />
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png"/>
-<img alt="react-native" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
-<img alt="flutter" width="26px" src="https://img.icons8.com/color/240/000000/flutter.png"/>
-<img alt="swift" width="26px" src="https://img.icons8.com/color/240/000000/swift.png"/>
+<img alt="java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png"/>
+<img alt="react-native" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
+<img alt="flutter" width="30px" src="https://img.icons8.com/color/240/000000/flutter.png"/>
+<img alt="swift" width="30px" src="https://img.icons8.com/color/240/000000/swift.png"/>
 <br />
-<img alt="Figma" width="26px" src="https://img.icons8.com/fluent/240/000000/figma.png"/>
-<img alt="adobeXD" width="26px" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png"/>
-<img alt="Sketch" width="26px" src="https://img.icons8.com/plasticine/200/000000/sketch.png"/><p/>
+<img alt="Figma" width="30px" src="https://img.icons8.com/fluent/240/000000/figma.png"/>
+<img alt="adobeXD" width="30px" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png"/>
+<img alt="Sketch" width="30px" src="https://img.icons8.com/plasticine/200/000000/sketch.png"/>
 
 ---
-<!-- ### Certifications 🏅
+### Certifications 🏅
 
-- [DataBricks: Fundamentals of Big Data](https://academy.databricks.com/elearning/INT-INBD-v1-SP)
-- [Codecademy: Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science)
-- [Kaggle: Python](https://www.kaggle.com/learn/python)
-- [Coursera: AI For Eveyone](https://www.coursera.org/learn/ai-for-everyone)
-- [DigiSkill: Graphic Designer](https://digiskills.pk/CourseDetails.aspx?Id=GRD101)
+- [Codewithmosh: The Ultimate React Native Series: Fundamentals](https://codewithmosh.com/p/the-ultimate-react-native-course-part1)
+- [Codewithmosh: The Ultimate React Native Series: Advanced Concepts](https://codewithmosh.com/p/the-ultimate-react-native-course-part2)
+- [Alison: Fundamentals of JavaScript](https://alison.com/course/fundamentals-of-javascript)
+- [Alison: JavaScript Application Programming](https://alison.com/course/javascript-application-programming-revised)
 
 
-### Competencies 🤹 
+<!-- ### Competencies 🤹 
 
-- Python Programmer.
-- BI analytics Dashboard using Power BI.
+- JavaScript Developer.
+- UI Designing.
 - Data Extraction using Beautiful Soup and Selenium.
 - Exploratory Data Analysis using Pandas.
-- Data Visualization Matplotlib and Seaborn.
-- Predictive Analytics/Machine Learning (Supervised/Unsupervised) using Scikit-Learn and PyCaret.
-- Deep Learning with TensorFlow.
-- Amazon Web Service (AWS) using Sagemaker.
-- Backend Development using Django and Flask.
+- Backend Development using Firebase. -->
 
 
-### Experiences 💼
+<!-- ### Experiences 💼
 
-- Data Science & Bussiness Analyst at The Spark Foundation - part of sparks foundation as an internee of Data Science & business analytics to work on different projects. -->
+- Freelancing 
 
-
-<!-- _NOTE: Top languages don't indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on github_ -->
+ _NOTE: Top languages don't indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on github_ -->
 
 <a href="https://github-readme-stats.vercel.app/api?username=dvimukthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 	<img align="center" alt="dvimukthi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dvimukthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
