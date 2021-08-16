@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Deshan Vimukthi <img src="https://img.icons8.com/color/96/000000/sri-lanka.png" height="40"/>
 
-## I'm an Undergraduate Student, Front End Developer! 
+## I'm an Undergraduate Student,
 
 - 🔭 I'm currently studying a BSc.(Hons) Computer Science.
-- 🌱 I’m currently learning ReactJs and Firebase.
+- 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡ Fun fact: I love to play Cricket and Watching Tv series.
@@ -55,12 +55,12 @@
 <img alt="Sketch" width="30px" src="https://img.icons8.com/plasticine/200/000000/sketch.png"/></p>
 
 ---
-### Certifications 🏅
+<!-- ### Certifications 🏅
 
 - [Codewithmosh: The Ultimate React Native Series: Fundamentals](https://codewithmosh.com/p/the-ultimate-react-native-course-part1)
 - [Codewithmosh: The Ultimate React Native Series: Advanced Concepts](https://codewithmosh.com/p/the-ultimate-react-native-course-part2)
 - [Alison: Fundamentals of JavaScript](https://alison.com/course/fundamentals-of-javascript)
-- [Alison: JavaScript Application Programming](https://alison.com/course/javascript-application-programming-revised)
+- [Alison: JavaScript Application Programming](https://alison.com/course/javascript-application-programming-revised) -->
 
 
 <!-- ### Competencies 🤹 
