@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm Deshan Vimukthi <img src="https://img.icons8.com/color/96/000000/sri-lanka.png" height="40"/>
+<p align="center" ><img 
+ src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="20%"/></p>
 
 ## I'm an Undergraduate Student,
 
@@ -34,10 +36,7 @@
 <img alt="html5" width="30px" src="https://img.icons8.com/color/240/000000/html-5.png">
 <img alt="css3" width="30px" src="https://img.icons8.com/color/240/000000/css3.png">
 <img alt="javascript" width="30px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-<img alt="typescript" width="30px" src="https://img.icons8.com/color/240/000000/typescript.png">
 <img alt="ReactJs" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
-<img alt="angularjs" width="30px" src="https://img.icons8.com/color/240/000000/angularjs.png"/>
-<img alt="vue-js" width="30px" src="https://img.icons8.com/color/240/000000/vue-js.png"/>
 <img alt="Node.js" width="30px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 <img alt="Firebase" width="30px" src="https://img.icons8.com/color/240/000000/firebase.png"/>
 <img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png">
@@ -45,38 +44,18 @@
 <img alt="android" width="30px" src="https://img.icons8.com/color/240/000000/android-os.png"/>
 <img alt="ios" width="30px" src="https://img.icons8.com/color/240/000000/ios-logo.png"/>
 <br />
-<img alt="java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png"/>
 <img alt="react-native" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
 <img alt="flutter" width="30px" src="https://img.icons8.com/color/240/000000/flutter.png"/>
+<img alt="android-studio" width="30px" src="<img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>"/>	
+<img alt="java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png"/>
+<img alt="kotlin" width="30px" src="<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>"/>
 <img alt="swift" width="30px" src="https://img.icons8.com/color/240/000000/swift.png"/>
 <br />
 <img alt="Figma" width="30px" src="https://img.icons8.com/fluent/240/000000/figma.png"/>
 <img alt="adobeXD" width="30px" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png"/>
-<img alt="Sketch" width="30px" src="https://img.icons8.com/plasticine/200/000000/sketch.png"/></p>
+
 
 ---
-<!-- ### Certifications 🏅
-
-- [Codewithmosh: The Ultimate React Native Series: Fundamentals](https://codewithmosh.com/p/the-ultimate-react-native-course-part1)
-- [Codewithmosh: The Ultimate React Native Series: Advanced Concepts](https://codewithmosh.com/p/the-ultimate-react-native-course-part2)
-- [Alison: Fundamentals of JavaScript](https://alison.com/course/fundamentals-of-javascript)
-- [Alison: JavaScript Application Programming](https://alison.com/course/javascript-application-programming-revised) -->
-
-
-<!-- ### Competencies 🤹 
-
-- JavaScript Developer.
-- UI Designing.
-- Data Extraction using Beautiful Soup and Selenium.
-- Exploratory Data Analysis using Pandas.
-- Backend Development using Firebase. -->
-
-
-<!-- ### Experiences 💼
-
-- Freelancing 
-
- _NOTE: Top languages don't indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on github_ -->
 
 <a href="https://github-readme-stats.vercel.app/api?username=dvimukthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 	<img align="center" alt="dvimukthi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dvimukthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
@@ -84,10 +63,6 @@
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvimukthi&layout=compact&theme=radical" />
 </a>
 
-
-<!--<p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=dvimukthi.dvimukthi" alt="Visitors">                     
-</p> -->
 
 
 [linkedin]: https://www.linkedin.com/in/deshan-v-1b09b9205/
