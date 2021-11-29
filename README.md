@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Deshan Vimukthi <img src="https://img.icons8.com/color/96/000000/sri-lanka.png" height="40"/>
 <p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="20%"/></p>
+ src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="20%"/></p>
 
 ## I'm an Undergraduate Student,
 
