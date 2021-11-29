@@ -46,9 +46,9 @@
 <br />
 <img alt="react-native" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
 <img alt="flutter" width="30px" src="https://img.icons8.com/color/240/000000/flutter.png"/>
-<img alt="android-studio" width="30px" src="<img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>"/>	
+<img alt="android-studio" width="30px" src="https://img.icons8.com/color/240/000000/android-studio--v3.png"/>	
 <img alt="java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png"/>
-<img alt="kotlin" width="30px" src="<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>"/>
+<img alt="kotlin" width="30px" src="https://img.icons8.com/color/240/000000/kotlin.png"/>
 <img alt="swift" width="30px" src="https://img.icons8.com/color/240/000000/swift.png"/>
 <br />
 <img alt="Figma" width="30px" src="https://img.icons8.com/fluent/240/000000/figma.png"/>
