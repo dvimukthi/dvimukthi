@@ -59,6 +59,7 @@
 
 <a href="https://github-readme-stats.vercel.app/api?username=dvimukthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko">
 	<img align="center" alt="dvimukthi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dvimukthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko" /></a>
+<br />
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dvimukthi&layout=compact&theme=merko">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvimukthi&layout=compact&theme=merko" />
 </a>
