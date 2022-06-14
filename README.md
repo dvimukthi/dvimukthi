@@ -3,7 +3,7 @@
 <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="30%"/>
 </p>
 
-## I'm an Undergraduate Student,
+## 💻 Mobile App Developer | UI Designer,
 
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate with other content creators.
