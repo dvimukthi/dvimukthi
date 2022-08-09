@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Languages and Tools  <img src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=790b7611jb3dxl7vl8alg18fjh9ny6ph3bfxv3y44kcwmvv8&rid=giphy.gif&ct=s" height="32" marginTop="10">
+### 🛠️ Languages and Tools  <img src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=790b7611jb3dxl7vl8alg18fjh9ny6ph3bfxv3y44kcwmvv8&rid=giphy.gif&ct=s" height="32" >
 
 <p><img alt="windows" width="30px" src="https://img.icons8.com/color/240/000000/windows-10.png">
   <img alt="macos" width="30px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
