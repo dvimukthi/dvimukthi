@@ -18,8 +18,6 @@
 [<img align="left" alt="Sabesan | LinkedIn" height="22px" src="https://img.icons8.com/fluent/240/000000/linkedin.png"/>][linkedin]
 
 
-
-
 <br> 
 
 
@@ -36,9 +34,9 @@
 <img alt="css3" width="30px" src="https://img.icons8.com/color/240/000000/css3.png">
 <img alt="javascript" width="30px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 <img alt="ReactJs" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
-<img alt="Node.js" width="30px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-<img alt="Firebase" width="30px" src="https://img.icons8.com/color/240/000000/firebase.png"/>
-<img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png">
+<img alt="Node.js" width="30px" src="https://img.icons8.com/fluency/48/000000/node-js.png" />
+<img alt="Firebase" width="30px" src="https://img.icons8.com/color/240/000000/firebase.png" />
+<img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png" />
 <br>
 <img alt="android" width="30px" src="https://img.icons8.com/color/240/000000/android-os.png"/>
 <img alt="ios" width="30px" src="https://img.icons8.com/color/240/000000/ios-logo.png"/>
