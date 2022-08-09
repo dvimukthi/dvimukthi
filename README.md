@@ -3,7 +3,7 @@
 <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="50%"/>
 </p>
 
-## 💻 Mobile App Developer | UI Designer,
+## 💻 <img src="https://media4.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47sqzpgleajf81rp8jdejw4w9k6ogyty1i4g3b6yak&rid=giphy.gif&ct=s" height="32"> Mobile App Developer | UI Designer,
 
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate with other content creators.
