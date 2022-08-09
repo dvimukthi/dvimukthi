@@ -36,6 +36,7 @@
 <img alt="ReactJs" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
 <img alt="Node.js" width="30px" src="https://img.icons8.com/fluency/48/000000/node-js.png" />
 <img alt="Firebase" width="30px" src="https://img.icons8.com/color/240/000000/firebase.png" />
+<img alt="MySQL" width="30px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>	
 <img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png" />
 <br>
 <img alt="android" width="30px" src="https://img.icons8.com/color/240/000000/android-os.png"/>
@@ -51,18 +52,16 @@
 <img alt="Figma" width="30px" src="https://img.icons8.com/fluent/240/000000/figma.png"/>
 <img alt="adobeXD" width="30px" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png"/>
 
-
 ---
 
 <p align="center" >
 <a href="https://github-readme-stats.vercel.app/api?username=dvimukthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko">
-	<img align="center" alt="dvimukthi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dvimukthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko" /></a>
+<img align="center" alt="dvimukthi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dvimukthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko" /></a>
 <br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dvimukthi&layout=compact&hide_border=true&theme=merko">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvimukthi&hide_border=true&layout=compact&theme=merko" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvimukthi&hide_border=true&layout=compact&theme=merko" />
 </a>
 </p>
-
 
 [linkedin]: https://www.linkedin.com/in/deshan-v-1b09b9205/
 [facebook]: https://www.facebook.com/vimukthi.samarasekera/
