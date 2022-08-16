@@ -36,6 +36,7 @@
 <img alt="ReactJs" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
 <img alt="Node.js" width="30px" src="https://img.icons8.com/fluency/48/000000/node-js.png" />
 <img alt="Firebase" width="30px" src="https://img.icons8.com/color/240/000000/firebase.png" />
+<img alt="MongoDB" width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img alt="MySQL" width="30px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>	
 <img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png" />
 <br>
