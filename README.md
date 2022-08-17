@@ -30,6 +30,8 @@
   <img alt="linux" width="30px" src="https://img.icons8.com/color/96/000000/linux.png">
 <br>
 <img alt="visual studio code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+<img alt="Atom" width="30px" src="https://img.icons8.com/color/96/000000/atom-editor.png" />
+<br>
 <img alt="html5" width="30px" src="https://img.icons8.com/color/240/000000/html-5.png">
 <img alt="css3" width="30px" src="https://img.icons8.com/color/240/000000/css3.png">
 <img alt="javascript" width="30px" src="https://img.icons8.com/color/240/000000/javascript.png" />
