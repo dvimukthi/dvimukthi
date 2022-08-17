@@ -13,9 +13,9 @@
 ### 📫 How to Reach Me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 
-[<img align="left" alt="Sabesan | Facebook" height="22px" src="https://img.icons8.com/fluent/240/000000/facebook-new.png"/>][facebook]
-[<img align="left" alt="Sabesan | Instagram" height="22px" src="https://img.icons8.com/fluent/240/000000/instagram-new.png"/>][instagram]
-[<img align="left" alt="Sabesan | LinkedIn" height="22px" src="https://img.icons8.com/fluent/240/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="Sabesan | Facebook" height="30px" src="https://img.icons8.com/fluent/240/000000/facebook-new.png"/>][facebook]
+[<img align="left" alt="Sabesan | Instagram" height="30px" src="https://img.icons8.com/fluency/96/000000/instagram-new.png"/>][instagram]
+[<img align="left" alt="Sabesan | LinkedIn" height="30px" src="https://img.icons8.com/color/96/000000/linkedin-circled--v1.png"/>][linkedin]
 
 
 <br> 
@@ -31,6 +31,7 @@
 <br>
 <img alt="visual studio code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 <img alt="Atom" width="30px" src="https://img.icons8.com/color/96/000000/atom-editor.png" />
+ <img alt="Intellij IDEA" width="30px" src="https://img.icons8.com/color/96/000000/intellij-idea.png" />
 <br>
 <img alt="html5" width="30px" src="https://img.icons8.com/color/240/000000/html-5.png">
 <img alt="css3" width="30px" src="https://img.icons8.com/color/240/000000/css3.png">
