@@ -5,7 +5,7 @@
 
 ## <img src="https://media1.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=ecf05e471w7tag4myfjglmrv1aaxg2ol2vhp1e6zk2ruwhlz&rid=giphy.gif&ct=s" height="32"> Mobile App Developer | UI Designer,
 
-- 🌱 I’m currently learning MySQL and NodeJs.
+- 🌱 I’m currently learning Python and NodeJs.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡Fun fact: I love to play cricket and watching Tv series.
