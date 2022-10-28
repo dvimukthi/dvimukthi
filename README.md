@@ -5,7 +5,7 @@
 
 ## <img src="https://media1.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=ecf05e471w7tag4myfjglmrv1aaxg2ol2vhp1e6zk2ruwhlz&rid=giphy.gif&ct=s" height="32"> Mobile App Developer | UI Designer,
 
-- 🌱 I’m currently learning Python and NodeJs.
+- 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡Fun fact: I love to play cricket and watching Tv series.
@@ -38,6 +38,7 @@
 <img alt="javascript" width="30px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 <img alt="ReactJs" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
 <img alt="Node.js" width="30px" src="https://img.icons8.com/fluency/48/000000/node-js.png" />
+<img alt="Python" width="30px" src="https://img.icons8.com/color/96/000000/python--v1.png" />
 <img alt="Firebase" width="30px" src="https://img.icons8.com/color/240/000000/firebase.png" />
 <img alt="MongoDB" width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img alt="MySQL" width="30px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>	
