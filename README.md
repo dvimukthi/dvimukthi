@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning NodeJS.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2022 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
+- 🥅 2023 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡Fun fact: I love to play cricket and watching Tv series.
 
 ### 📫 How to Reach Me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
