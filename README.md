@@ -3,12 +3,12 @@
 <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="50%"/>
 </p>
 
-## <img src="https://media1.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=ecf05e471w7tag4myfjglmrv1aaxg2ol2vhp1e6zk2ruwhlz&rid=giphy.gif&ct=s" height="32"> Mobile App Developer | UI Designer,
+## <img src="https://media1.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=ecf05e471w7tag4myfjglmrv1aaxg2ol2vhp1e6zk2ruwhlz&rid=giphy.gif&ct=s" height="32"> Web developer | Mobile App Developer | UI Designer
 
-- 🌱 I’m currently learning NodeJS.
+- 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2023 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
-- ⚡Fun fact: I love to play cricket and watching Tv series.
+- ⚡Fun fact: I love to play cricket and watching Tv shows.
 
 ### 📫 How to Reach Me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
@@ -31,7 +31,8 @@
 <br>
 <img alt="visual studio code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 <img alt="Atom" width="30px" src="https://img.icons8.com/color/96/000000/atom-editor.png" />
- <img alt="Intellij IDEA" width="30px" src="https://img.icons8.com/color/96/000000/intellij-idea.png" />
+<img alt="Intellij IDEA" width="30px" src="https://img.icons8.com/color/96/000000/intellij-idea.png" />
+ <img alt="Pycharm IDEA" width="30px" src="https://img.icons8.com/color/48/null/pycharm.png" />
 <br>
 <img alt="html5" width="30px" src="https://img.icons8.com/color/240/000000/html-5.png">
 <img alt="css3" width="30px" src="https://img.icons8.com/color/240/000000/css3.png">
@@ -56,6 +57,8 @@
 <br>
 <img alt="Figma" width="30px" src="https://img.icons8.com/fluent/240/000000/figma.png"/>
 <img alt="adobeXD" width="30px" src="https://img.icons8.com/color/240/000000/adobe-xd--v1.png"/>
+<img alt="AdobeIllustrator" width="30px" src="https://img.icons8.com/color/48/null/adobe-illustrator--v1.png"/>
+<img alt="AdobePhotoshop" width="30px" src="https://img.icons8.com/color/48/null/adobe-photoshop--v1.png"/>
 
 ---
 
