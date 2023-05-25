@@ -5,7 +5,7 @@
 
 ## <img src="https://media1.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=ecf05e471w7tag4myfjglmrv1aaxg2ol2vhp1e6zk2ruwhlz&rid=giphy.gif&ct=s" height="32"> Software Engineer proficient in JavaScript | UI Designer
 
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning MERN.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2023 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡Fun fact: I love to play cricket and watching Tv shows.
