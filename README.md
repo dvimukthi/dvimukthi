@@ -3,7 +3,7 @@
 <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="50%"/>
 </p>
 
-## <img src="https://media1.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=ecf05e471w7tag4myfjglmrv1aaxg2ol2vhp1e6zk2ruwhlz&rid=giphy.gif&ct=s" height="32"> Software Engineer proficient in JavaScript | UI Designer
+## <img src="https://media1.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=ecf05e471w7tag4myfjglmrv1aaxg2ol2vhp1e6zk2ruwhlz&rid=giphy.gif&ct=s" height="32"> Software Engineer proficient in JavaScript | React Native Developer
 
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate with other content creators.
