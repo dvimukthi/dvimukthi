@@ -5,7 +5,7 @@
 
 ## <img src="https://media1.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=ecf05e471w7tag4myfjglmrv1aaxg2ol2vhp1e6zk2ruwhlz&rid=giphy.gif&ct=s" height="32"> Software Engineer proficient in JavaScript | React Native Developer
 
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning php & Laravel.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2023 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡Fun fact: I love to play cricket and watching Tv shows.
@@ -74,11 +74,11 @@
   
 <br>
   
-<a href="https://github-readme-stats.vercel.app/api?username=dvimukthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko">
+<!-- <a href="https://github-readme-stats.vercel.app/api?username=dvimukthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko">
 <img align="center" alt="dvimukthi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dvimukthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko" />
 </a>
   
-<br>
+<br> -->
    
 <a align="center"  href="https://github-recomadme-streak-stats.herokuapp.com/?user=dvimukthi&hide_border=true">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dvimukthi&theme=merko&hide_border=true" alt="dvimukthi" />
