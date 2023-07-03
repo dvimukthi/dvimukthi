@@ -5,7 +5,7 @@
 
 ## <img src="https://media1.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=ecf05e471w7tag4myfjglmrv1aaxg2ol2vhp1e6zk2ruwhlz&rid=giphy.gif&ct=s" height="32"> Software Engineer proficient in JavaScript | React Native Developer
 
-- 🌱 I’m currently learning php & Laravel.
+- 🌱 I’m currently learning MERN.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2023 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡Fun fact: I love to play cricket and watching Tv shows.
@@ -41,8 +41,8 @@
   <img alt="Python" width="30px" src="https://img.icons8.com/color/96/000000/python--v1.png" />
   <img alt="C" width="30px" src="https://img.icons8.com/color/48/c-programming.png" />
 <!--   <img alt="C++" width="30px" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" />
-  <img alt="C#" width="30px" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" /> -->
-  <img alt="Firebase" width="30px" src="https://img.icons8.com/color/240/000000/firebase.png" />
+  <img alt="C#" width="30px" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" /> 
+  <img alt="Firebase" width="30px" src="https://img.icons8.com/color/240/000000/firebase.png" /> -->
   <img alt="MySQL" width="30px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>	
   <img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png" />
   
